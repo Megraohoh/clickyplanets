@@ -4,39 +4,39 @@ var planetHolderDiv = document.getElementById('planetHolder');
 var planets = [ 
 	{
 		name: "Mercury",
-		url: ""	
+		url: "https://goo.gl/images/R9crwr"	
 	},
 	{
 		name: "Venus",
-		url: ""
+		url: "https://goo.gl/images/QgeuUu"
 	},
 	{
 		name: "Earth",
-		url: ""
+		url: "https://goo.gl/images/sRLhj9"
 	},
 	{
 		name: "Mars",
-		url: ""
-	},
-	{
-		name: "Saturn",
-		url: ""
-	},
-	{
-		name: "Uranus",
-		url: ""
-	},
-	{
-		name: "Neptune",
-		url: ""
+		url: "https://goo.gl/images/njL3r4"
 	},
 	{
 		name: "Jupiter",
-		url: ""
+		url: "https://goo.gl/images/ufh31q"
+	},
+	{
+		name: "Saturn",
+		url: "https://goo.gl/images/YnKkPR"
+	},
+	{
+		name: "Uranus",
+		url: "https://goo.gl/images/4mNpCF"
+	},
+	{
+		name: "Neptune",
+		url: "https://goo.gl/images/VwyUYM"
 	},
 	{
 		name: "???",
-		url: ""
+		url: "https://goo.gl/images/44ygZB"
 	},
 ];
 
