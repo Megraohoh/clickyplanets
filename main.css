@@ -48,6 +48,14 @@ body{
 	width: inherit;
 }
 
+.planetImage {
+  height: 300px;
+  width: 300px;
+}
+
+.hidden {
+  display: none;
+}
 
 
 
